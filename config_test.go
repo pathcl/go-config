@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kayac/go-config"
+	"github.com/pathcl/go-config"
 )
 
 var dir string

@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/kayac/go-config"
+	"github.com/pathcl/go-config"
 )
 
 var templateTestRead = []byte(`xxx{{ env "FOO" }}xxx`)

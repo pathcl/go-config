@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/kayac/go-config"
+	"github.com/pathcl/go-config"
 )
 
 func TestDelims(t *testing.T) {

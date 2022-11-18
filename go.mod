@@ -1,4 +1,4 @@
-module github.com/kayac/go-config
+module github.com/pathcl/go-config
 
 go 1.12
 

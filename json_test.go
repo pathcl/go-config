@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/kayac/go-config"
+	"github.com/pathcl/go-config"
 )
 
 var testsJSON = []string{

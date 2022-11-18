@@ -6,7 +6,7 @@ import (
 	"testing"
 	"text/template"
 
-	"github.com/kayac/go-config"
+	"github.com/pathcl/go-config"
 )
 
 func TestFuncs(t *testing.T) {

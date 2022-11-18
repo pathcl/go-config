@@ -3,7 +3,7 @@ package config_test
 import (
 	"testing"
 
-	"github.com/kayac/go-config"
+	"github.com/pathcl/go-config"
 )
 
 func TestData(t *testing.T) {

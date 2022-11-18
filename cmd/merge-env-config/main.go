@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	config "github.com/kayac/go-config"
+	config "github.com/pathcl/go-config"
 )
 
 var Version = "current"
